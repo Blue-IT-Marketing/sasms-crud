@@ -1,0 +1,14 @@
+{
+  "name": "sasms",
+  "version": "1.0.0",
+  "description": "sasms crud app",
+  "main": "index.js",
+  "author": "mobius-crypt",
+  "license": "yes",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.6",
+    "sendgrid": "^5.2.3"
+  }
+}
